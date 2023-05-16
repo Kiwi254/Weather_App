@@ -1,0 +1,112 @@
+a {
+  text-decoration: none;
+}
+
+h2 {
+  margin-left: 115px;
+  text-align: center;
+  margin-top: -40px;
+}
+
+h3 {
+  margin-left: 10px;
+  text-align: center;
+}
+
+h4 {
+  margin-left: 180px;
+  text-align: left;
+  margin-top: -60px;
+  font-size: 22px;
+  color: rgb(92, 177, 237);
+}
+
+ul {
+  margin-left: 70px;
+  margin-top: 20px;
+  list-style: none;
+  text-align: left;
+}
+
+p {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+span {
+  font-size: 15px;
+  vertical-align: super;
+}
+
+#magnify {
+  display: block;
+  margin-left: 290px;
+  margin-top: -45px;
+}
+
+#success {
+  display: inline;
+  margin-left: 350px;
+  margin-top: -68px;
+}
+.container-one {
+  display: block;
+  margin: 0 auto;
+}
+
+.container-two {
+  display: block;
+  margin: 0 auto;
+  border: 2px solid lightgrey;
+  max-width: 83%;
+  padding: 10px;
+  text-align: center;
+}
+
+.feels-like {
+  width: 20px;
+  margin-left: -1px;
+}
+.form-inline {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  width: 300px;
+}
+
+.humidity-image {
+  display: inline;
+  width: 20px;
+  margin-left: -22px;
+}
+
+.large-temp {
+  margin-left: 50px;
+  font-size: 200px;
+  margin-top: -60px;
+}
+
+.location {
+  text-align: center;
+  margin-right: 85px;
+  font-size: 30px;
+}
+.time {
+  margin-right: 85px;
+  font-size: 25px;
+  margin-top: -5px;
+}
+
+#temp-icon {
+  font-size: 30px;
+}
+
+#temp-toggle {
+  text-align: center;
+  margin-top: -20px;
+}
+
+.current-temp {
+  font-size: 30px;
+}
